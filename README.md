@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SAMARISAMUEL
 - 👀 I’m interested in web Development 
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,VERSION CONTROL,MYSQL,REACT
+- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,VERSION CONTROL,MYSQL,REACT,BOOTSTRAP,TAILWIND
 - 💞️ I’m looking to collaborate on Internship opportunities
 - 📫 How to reach me liveogd@yahoo.com
 - 😄 Pronouns: ...
